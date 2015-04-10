@@ -20,6 +20,10 @@
 		background: #fff;
 		height: 100%;
 	}
+	.quotation{
+		color: red;
+		font-size: 125%;
+	}
 
 		body.is-loading *,
 		body.is-resizing *
