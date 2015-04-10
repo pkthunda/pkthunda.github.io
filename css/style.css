@@ -25,6 +25,12 @@
 		font-size: 125%;
 	}
 
+	.welcome{
+		color: white;
+		font-size: 150%;
+		margin-bottom: 8em;
+	}
+
 		body.is-loading *,
 		body.is-resizing *
 		{
