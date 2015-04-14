@@ -22,7 +22,8 @@
 	}
 	.quotation{
 		color: red;
-		font-size: 125%;
+		font-size: 115%;
+		letter-spacing: .5px;
 	}
 
 	.welcome{
